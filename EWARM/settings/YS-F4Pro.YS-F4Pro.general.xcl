@@ -1,0 +1,15 @@
+"D:\XiongXia\Software\IAR Systems\Embedded Workbench 7.3\arm\bin\armproc.dll" 
+
+"D:\XiongXia\Software\IAR Systems\Embedded Workbench 7.3\arm\bin\armstlink2.dll" 
+
+"D:\XiongXia\产品资料\IAP-Bootloader 终版\EWARM\YS-F4Pro\Exe\YS-F4Pro.out" 
+
+--plugin "D:\XiongXia\Software\IAR Systems\Embedded Workbench 7.3\arm\bin\armbat.dll" 
+
+--device_macro "D:\XiongXia\Software\IAR Systems\Embedded Workbench 7.3\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "D:\XiongXia\Software\IAR Systems\Embedded Workbench 7.3\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
